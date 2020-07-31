@@ -1,4 +1,4 @@
-![capaGit](https://user-images.githubusercontent.com/22202588/89079411-ca238980-d35c-11ea-94a5-2490d532c9ab.png)
+![capaGit](![capaGit (1)](![capaGit (2)](https://user-images.githubusercontent.com/22202588/89088229-a288ed00-d36d-11ea-9790-adfe5db66a44.png)))
 
 # Desenvolvedor Full Stack
 
