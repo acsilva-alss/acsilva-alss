@@ -2,7 +2,7 @@
 
 # Desenvolvedor Full Stack
 
-- 🔭 Trabalhando na Linx 
+- 🔭 Graduando em ciência da computação 
 - 🌱 Estudando Node.Js, React, Angular 
 - ⚡ Sobre mim: Tenho 27 anos, amo futebol e sou gremista
 
