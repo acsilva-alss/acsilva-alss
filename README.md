@@ -7,7 +7,7 @@
 - ⚡ Sobre mim: Tenho 27 anos, amo futebol e sou gremista
 
 ## Me encontre em:
----
+
 <a href= https://www.instagram.com/alissoncs_/><img src= https://image.flaticon.com/icons/svg/725/725339.svg width="20" height="20"/></a>
 <a href= https://www.linkedin.com/in/alissoncs//><img src= https://image.flaticon.com/icons/svg/1384/1384088.svg width="20" height="20"/></a>
 
