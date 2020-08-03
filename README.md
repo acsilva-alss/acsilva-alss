@@ -1,10 +1,10 @@
-![capaGit (3)](https://user-images.githubusercontent.com/22202588/89088427-95b8c900-d36e-11ea-8767-408efbb922de.png)
+![ALISSON SILVA (1)](https://user-images.githubusercontent.com/22202588/89197926-d426d180-d582-11ea-84f5-b0abdb692d3b.png)
 
 # Desenvolvedor Full Stack
 
 - 🔭 Graduando em ciência da computação 
 - 🌱 Estudando Node.Js, React, Angular 
-- ⚡ Sobre mim: Tenho 27 anos, amo futebol e sou gremista
+- ⚡ Sobre mim: Tenho 27 anos, amo futebol e produzo conteúdo de programação na internet.
 
 ## Me encontre em:
 
