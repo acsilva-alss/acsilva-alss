@@ -1,10 +1,10 @@
-![ALISSON SILVA (1)](https://user-images.githubusercontent.com/22202588/89197926-d426d180-d582-11ea-84f5-b0abdb692d3b.png)
+![ALISSON SILVA (8)](https://user-images.githubusercontent.com/22202588/89204201-19033600-d58c-11ea-999d-49c6c6ac9bd5.png)
 
 # Desenvolvedor Full Stack
 
 - 🔭 Graduando em ciência da computação 
 - 🌱 Estudando Node.Js, React, Angular 
-- ⚡ Sobre mim: Tenho 27 anos, amo futebol e produzo conteúdo de programação na internet.
+- ⚡ Sobre mim: Tenho 27 anos, amo futebol e produzo conteúdo de programação
 
 ## Me encontre em:
 
