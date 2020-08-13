@@ -1,14 +1,18 @@
-![ALISSON SILVA (8)](https://user-images.githubusercontent.com/22202588/89204201-19033600-d58c-11ea-999d-49c6c6ac9bd5.png)
+![capaYoutube (1)](https://user-images.githubusercontent.com/22202588/90177419-e40f9400-dd80-11ea-8e12-da08739c3069.png)
 
 # Desenvolvedor Full Stack
 
-- 🔭 Graduando em ciência da computação 
-- 🌱 Estudando Node.Js, React, Angular 
+- 🔭 Graduando em ciência da computação.
+- 🌱 Estudando Node.Js, React, Angular e React Native.
+- ⚡ Youtuber e crriador de conteúdo.
 
 ## Me encontre em:
 <a href= https://www.instagram.com/alissoncs_/><img src= https://image.flaticon.com/icons/svg/725/725339.svg width="20" height="20"/></a>
 <a href= https://www.linkedin.com/in/alissoncs//><img src= https://image.flaticon.com/icons/svg/1384/1384088.svg width="20" height="20"/></a>
-
+<a href= https://www.youtube.com/channel/UCWTpcuvrW1gnpD0G9PncaNw?view>
+<img src= https://image.flaticon.com/icons/svg/1051/1051350.svg width="25" height="22"/></a>
+<a href= https://medium.com/@alissoncs_>
+<img src= https://image.flaticon.com/icons/svg/2111/2111543.svg width="25" height="22"/></a>
 ---
 
 ## Linguagens e ferramentas
