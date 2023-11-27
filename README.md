@@ -1,10 +1,10 @@
 # Desenvolvedor Backend
 
 - 🔭 Bacharel em ciência da computação.
-- 🌱 Linguagens: Javascript, typescript e c#.
-- ⚡ Youtuber, crriador de conteúdo e palestrante.
-- 🔭 Atualmente estou trabalhando na Trinca
-- 🌱 Atualmente estou estudando sobre arquitetura (clean architecture, ports and adapters...), microserviços (API gateway) e IA.
+- 🌱 Linguagens: Javascript, Typescript e C#.
+- ⚡ Cursando o MBA Arquitetura Full Cycle
+- 🔭 Atualmente estou trabalhando como FullStack Developer na Trinca
+- 🌱 Estou estudando sobre arquitetura (clean architecture, ports and adapters...), microserviços (API gateway) e IA.
 
 
 ## Me encontre em:
